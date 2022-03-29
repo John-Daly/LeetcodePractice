@@ -8,3 +8,5 @@ class Solution {
         } else return false;
     }
 }
+
+// Runtime on this solution was slower than other submissions. Possibly a faster way to do this. Will return with more knowledge. 
